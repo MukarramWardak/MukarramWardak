@@ -7,7 +7,8 @@ Skills:
 Machine Learning:       
 
 • Scikit-learn            • Pytorch                
-• NLTK                    • Transformers           
+• NLTK                    • Transformers     
+
  Others: 
 
 • FastAPI                 • Firebase            
