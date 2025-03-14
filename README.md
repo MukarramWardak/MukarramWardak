@@ -8,6 +8,7 @@ Machine Learning:
 • Scikit-learn            • Pytorch                
 • NLTK                    • Transformers           
  Others: 
+
 • FastAPI                 • Firebase            
 • Docker                  • Weaviate
 • PostgresSQL 
