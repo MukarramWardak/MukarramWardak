@@ -5,6 +5,7 @@ Innovating and building scalable, AI-driven applications that deliver results.<b
 
 Skills:                             
 Machine Learning:       
+
 • Scikit-learn            • Pytorch                
 • NLTK                    • Transformers           
  Others: 
